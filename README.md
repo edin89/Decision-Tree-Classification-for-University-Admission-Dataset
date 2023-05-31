@@ -1,1 +1,3 @@
 # Decision-Tree-Classification-for-University-Admission-Dataset
+
+This project involved performing exploratory data analysis (EDA) on the university admission dataset. Tasks included visualizing random rows, generating descriptions and correlation matrix, finding minimum and maximum values for GRE scores, determining the percentage of universities for each rating, and converting the target variable to categorical. Additionally, a Decision Tree classifier was built with hyperparameter tuning to predict students' chances of admission to a chosen university, aiming to improve the model's accuracy.
